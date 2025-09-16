@@ -6,18 +6,16 @@
 1. Open the terminal in the `src/` folder.
 2. Compile the C programs by typing:
 
-```gcc create_basic.c -o create_basic.exe
-gcc child_echo.c -o child_echo.exe
-gcc create_two_children.c -o create_two_children.exe
-gcc replace_sim.c -o replace_sim.exe```
-
+- gcc create_basic.c -o create_basic.exe
+- gcc child_echo.c -o child_echo.exe
+- gcc create_two_children.c -o create_two_children.exe
+- gcc replace_sim.c -o replace_sim.exe
 
 3. Run the programs using:
 
-```./create_basic.exe
-./create_two_children.exe
-./replace_sim.exe```
-
+- ./create_basic.exe
+- ./create_two_children.exe
+- ./replace_sim.exe
 
 ## Sample Outputs
 
